@@ -1,0 +1,32 @@
+#black section {
+  background-color: blue;
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  display: flex;
+
+}
+
+#black section > div {
+  background-color: #2B4B55;
+  width: 300px;
+  height: 300px;
+  padding: 40%;
+
+}
+
+#black section > div > div{
+  background-color: #8F8994;
+  width: 295px;
+  height: 295px;
+  padding: 40%;
+  margin: 40px;
+
+}
+
+#black section > div > div > div{
+  background-color: #E9A949;
+  width: 130px;
+  height: 130px;
+  padding: 31.2%;
+}
